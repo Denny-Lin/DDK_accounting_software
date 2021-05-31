@@ -9,9 +9,9 @@
 <br><br/>
 
 ##New ideas
-* tool bar
-* write function
-* account sysyem
+* Tool bar
+* Writing function
+* Account sysyem
 <br><br/>
 
 ## Platforms
