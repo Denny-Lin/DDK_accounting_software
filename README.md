@@ -3,9 +3,15 @@
 <br><br/>
 
 ## Features
-* Read talbes of excel
-* Print talbes of excel
-* Show talbes of excel
+* Read talbes of excel.
+* Print talbes of excel.
+* Show talbes of excel.
+<br><br/>
+
+##New ideas
+* tool bar
+* write function
+* account sysyem
 <br><br/>
 
 ## Platforms
