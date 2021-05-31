@@ -3,9 +3,9 @@
 <br><br/>
 
 ## Features
-* read talbes of excel
-* print talbes of excel
-* show talbes of excel
+* Read talbes of excel
+* Print talbes of excel
+* Show talbes of excel
 <br><br/>
 
 ## Platforms
